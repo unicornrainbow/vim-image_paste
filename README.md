@@ -1,5 +1,3 @@
-*Note: Requires that pngpaste is in the path*
-
 ## Requirements
 
 Currently supports OS X. Windows and linux support planned.
